@@ -2,30 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Stock-000000947    Stock-000000947]]>
-    </line>
-    <line>
-      <![CDATA[Supplier-00000001994    Supplier-00000001994]]>
-    </line>
-    <line>
-      <![CDATA[Customer-00000003362    Customer-00000003362]]>
+      <![CDATA[Stock-000000976    Stock-000000976]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-03-18T00:29:17 IST" name="Surefire suite" finished-at="2024-03-18T00:30:40 IST" duration-ms="82796">
+  <suite started-at="2024-03-20T19:40:25 IST" name="Surefire suite" finished-at="2024-03-20T19:41:03 IST" duration-ms="38276">
     <groups>
     </groups>
-    <test started-at="2024-03-18T00:29:17 IST" name="Surefire test" finished-at="2024-03-18T00:30:40 IST" duration-ms="82796">
+    <test started-at="2024-03-20T19:40:25 IST" name="Surefire test" finished-at="2024-03-20T19:41:03 IST" duration-ms="38276">
       <class name="driverFactory.AppTest">
-        <test-method signature="kickstart()[pri:0, instance:driverFactory.AppTest@306cf3ea]" started-at="2024-03-18T00:29:17 IST" name="kickstart" finished-at="2024-03-18T00:30:40 IST" duration-ms="82692" status="PASS">
+        <test-method signature="kickstart()[pri:0, instance:driverFactory.AppTest@61386958]" started-at="2024-03-20T19:40:25 IST" name="kickstart" finished-at="2024-03-20T19:41:03 IST" duration-ms="38185" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Stock-000000947    Stock-000000947]]>
-            </line>
-            <line>
-              <![CDATA[Supplier-00000001994    Supplier-00000001994]]>
-            </line>
-            <line>
-              <![CDATA[Customer-00000003362    Customer-00000003362]]>
+              <![CDATA[Stock-000000976    Stock-000000976]]>
             </line>
           </reporter-output>
         </test-method> <!-- kickstart -->
